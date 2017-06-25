@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+  	MyPortfolioViewTool::Renderer.copyright 'Joe Blow', 'All rights reserved'
+```
 
 ## Development
 
